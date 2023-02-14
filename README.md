@@ -1,6 +1,7 @@
 -Trust me;
 -All these codes are waritten by ME ONLY;
--How to reach me https://www.linkedin.com/in/karan-gupta-2716a0213/ ;
+-If you find me interesting - https://www.instagram.com/__karan_g__/?next=%2F ;
+-If you noticed something wrong - n.com/in/karan-gupta-2716a0213/ ;
 
 <!---
 karanG69/karanG69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
