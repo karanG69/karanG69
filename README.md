@@ -1,7 +1,5 @@
--Trust me;
--All these codes are waritten by ME ONLY;
--If you find me interesting - https://www.instagram.com/__karan_g__/?next=%2F ;
--If you noticed something wrong -linkedin.com/in/karan-gupta-2716a0213/ ;
+-Trust me,
+-All these codes are written by ME ONLY;
 
 <!---
 karanG69/karanG69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
