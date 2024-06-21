@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://linkstorage.linkfire.com/medialinks/images/72b138c8-dce0-481b-9ff6-3ec82dfc166d/artwork-600x315.jpg" alt="karang69" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karang69" alt="karang69" /></a> </p>
 
