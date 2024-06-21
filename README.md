@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karang69&label=Profile%20views&color=0e75b6&style=flat" alt="karang69" /> </p>
-<p align="left"> <img src="https://linkstorage.linkfire.com/medialinks/images/72b138c8-dce0-481b-9ff6-3ec82dfc166d/artwork-600x315.jpg" alt="karang69" /> </p>
 - 🔭 I’m currently working on **C++, DSA, JavaSript, ReactJS, NodeJS**
 
 - 🌱 I’m currently learning **Machine Learning, Django**
