@@ -21,9 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karan gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karan-gupta-2716a0213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-gupta-2716a0213" height="30" width="40" /></a>
 <a href="https://instagram.com/__karan_g__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karan_g__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/baniyakaran000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="baniyakaran000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baniyakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baniyakaran" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/karangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karangg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
